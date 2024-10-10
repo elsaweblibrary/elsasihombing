@@ -53,9 +53,9 @@
             LAYANAN
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="#">Formulir Pemesanan Buku</a></li>
-            <li><a class="dropdown-item" href="#">Formulir Perpanjangan Buku</a></li>
-            <li><a class="dropdown-item" href="#">Formulir Anggota Perpustakaan Program Studi</a></li>
+            <li><a class="dropdown-item" href="Formulir Pemesanan Buku">Formulir Pemesanan Buku</a></li>
+            <li><a class="dropdown-item" href="Formulir Perpanjangan Peminjaman Buku">Formulir Perpanjangan Buku</a></li>
+            <li><a class="dropdown-item" href="Formulir Anggota Perpustakaan Program Studi">Formulir Anggota Perpustakaan Program Studi</a></li>
               <li><a class="dropdown-item" href="Pengertia HTML dan CSS">Pengertian HTML dan CSS</a></li>
           </ul>
         </li>
@@ -69,7 +69,7 @@
       </form>
     </div>
   </div>
-</nav>  
+</nav> 
 <h1> Pengertian HTML dan CSS </h1>
         <p>HTML adalah bahasa markup standar yang digunakan untuk membuat struktur dan konten halaman web. Dalam HTML, pengembang web mendefinisikan elemen-elemen seperti teks, gambar, tautan, formulir, dan elemen lainnya yang membentuk tampilan halaman web. HTML menggunakan tag-tag untuk menandai elemen-elemen ini sehingga peramban web tahu cara menampilkan mereka.</p>
     
