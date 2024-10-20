@@ -1,1 +1,1 @@
-document.alert()
+document.alert("Welcome")
