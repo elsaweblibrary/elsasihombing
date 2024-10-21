@@ -1,5 +1,5 @@
-alert("Selamat datang di Perpustakaan Universitas Syiah Kuala!");
+alert("Selamat datang di Perpustakaan Politeknik Negeri Jakarta!");
 
-document.getElementById("welcome").innerHTML="PERPUSTAKAAN UNIVERSITAS SYIAH KUALA"
+document.getElementById("welcome").innerHTML="PERPUSTAKAAN Politeknik Negeri Jakarta"
 
 console.log(document);
